@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P37S2120222RRJA</string>
+    <string name="btn_suma">Sumar</string>
+    <string name="btn_resta">Restar</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="btn_dividir">Dividir</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="resultado">Resultado</string>
+</resources>
